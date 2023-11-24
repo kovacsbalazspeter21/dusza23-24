@@ -1,0 +1,9 @@
+fogado_neve; jatek_neve; tet; alany; esemeny; ertek
+Kovács Imre;Lajos és Bettina programjának futása;10;Lajos;programfutásánaksebessége;6
+Kovács Imre;Lajos és Bettina programjának futása;23;Lajos;programjánakkimenete;Hello World
+Oláh Margit;Lajos és Bettina programjának futása;20;Lajos;programfutásánaksebessége;8
+Loic; soccer; 10; Adriano; skills; 12
+Leandro; soccer; 23; Adriano; goals; 3
+Hugo; baseball; 14; Thomas; Hits; 35
+Max; snooker; 21; Lex; legjobb a bajnoksában a hónapban; 6
+Gergő; kosárlabda; 25; Lowry; 3pontos Hawk ellen; 3
